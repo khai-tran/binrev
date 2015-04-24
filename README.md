@@ -38,7 +38,7 @@ Requirement
 Usage
 ============
 
-### 1.Configure correct path to installed tools in the script:
+### 1. Configure correct path to installed tools in the script:
 ```
 set justdecompile="JustDecompile\JustDecompile"
 set dllexp="dllexp\dllexp"
