@@ -38,7 +38,7 @@ Requirement
 Usage
 ============
 
-1.	Configure correct path to installed tools in the script:
+### 1.Configure correct path to installed tools in the script:
 ```
 set justdecompile="JustDecompile\JustDecompile"
 set dllexp="dllexp\dllexp"
@@ -50,7 +50,7 @@ set java7="C:\Program Files (x86)\Java\jre7\bin\java"
 set procyon="procyon-decompiler-0.5.7.jar"
 ```
 
-2.	Run
+### 2. Run
 
 ```
 Binrev [Source folder] [Output folder]
